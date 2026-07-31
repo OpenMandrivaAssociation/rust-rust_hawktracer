@@ -5,8 +5,8 @@
 %global crate rust_hawktracer
 
 Name:           rust-%{crate}
-Version:        0.6.0
-Release:        2%{?dist}
+Version:        0.7.0
+Release:        1%{?dist}
 Summary:        Rust bindings for hawktracer profiling library
 
 # Upstream license specification: MIT/Apache-2.0
